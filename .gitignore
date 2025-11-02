@@ -1,0 +1,87 @@
+# ===============================
+#  Git Ignore for Data Science / ML
+# ===============================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.pkl
+*.db
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# --- Build / Distribution ---
+build/
+dist/
+.eggs/
+*.manifest
+*.spec
+
+# --- OS / System files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs and outputs ---
+*.log
+*.out
+*.err
+
+# --- Data directories ---
+data/raw/
+data/interim/
+data/external/
+data/private/
+data/tmp/
+!data/README.md  # Keep data folder structure
+
+# --- Models and results ---
+models/
+checkpoints/
+outputs/
+runs/
+*.h5
+*.onnx
+
+# --- Notebooks checkpoints ---
+.ipynb_checkpoints/
+
+# --- Streamlit / cache ---
+.streamlit/
+__pycache__/
+*.cache/
+*.temp
+
+# --- Reports / Figures ---
+reports/figures/
+reports/tmp/
+
+# --- Sensitive / credentials ---
+*.env
+.env
+secrets.json
+config.yaml
+credentials.json
+
+# --- IDEs ---
+.idea/
+.vscode/
+*.swp
+*.bak
+
+# --- Misc ---
+*.zip
+*.tar.gz
+*.rar
