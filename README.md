@@ -144,7 +144,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 **Théo Caron**  
 Data Scientist 
-📧 caron-theo@laposte.net  
+📧 caron-theo@laposte.net        
 🌐 [My GitHub](https://github.com/Theo-Caron)]
 
 ---
