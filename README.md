@@ -142,10 +142,10 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## 👤 Author
 
-**Your Name**  
-Data Scientist / Machine Learning Engineer  
-📧 your.email@example.com  
-🌐 [LinkedIn or Portfolio URL]
+**Théo Caron**  
+Data Scientist 
+📧 caron-theo@laposte.net  
+🌐 [My GitHub](https://github.com/Theo-Caron)]
 
 ---
 
